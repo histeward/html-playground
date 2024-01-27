@@ -63,6 +63,7 @@ header {
   height: 50px;
 
   background: var(--background-color);
+  color: var(--text-color);
   box-shadow: 4px 4px 8px var(--neu-2), -2px -2px 8px var(--neu-1);
 
   border: transparent;
